@@ -1,0 +1,24 @@
+.nav-item .nav-link .nav-icon.Guru-pengampu {
+    margin-left: 20px;
+}
+
+.nav-item .nav-link .nav-icon.data-Siswa {
+    margin-left: 20px;
+}
+
+/* .judul {
+    font-weight: 700;
+} */
+
+hr {
+    height: 2px; /* Atur tinggi garis horizontal */
+    background-color: #000; /* Warna garis horizontal */
+    margin: 10px 0; /* Atur margin di atas dan bawah */
+}
+
+.judul,
+.sub {
+    display: inline-block;
+    vertical-align: bottom;
+    margin: 0; /* Menghapus margin bawaan pada elemen h1 dan h5 */
+}
